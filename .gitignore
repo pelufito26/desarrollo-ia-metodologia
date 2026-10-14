@@ -1,0 +1,7 @@
+# Mantener fuentes originales y material temporal fuera del repositorio.
+*.pdf
+*.zip
+tmp/
+.env
+.env.*
+__pycache__/
